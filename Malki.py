@@ -10,6 +10,9 @@ print("My name is Malki")
 
 # In[ ]:
 Editing By Rochelle
+X=10
+Y=20
+Print (x+y)
 
 
 
